@@ -4,6 +4,8 @@ description: 'Classe 15: Forwards, Futures & Swaps'
 file: /courses/15-433-investments-spring-2003/abfe7b1a57a66c6daf4c6380b8ef617e_1543315fixedincome3.pdf
 file_size: 359764
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

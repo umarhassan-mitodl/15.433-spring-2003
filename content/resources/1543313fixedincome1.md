@@ -4,6 +4,8 @@ description: 'Class 13: The Fixed Income Market. Part 1: Introduction'
 file: /courses/15-433-investments-spring-2003/0c35d86c9526748cf02516deb8bbb450_1543313fixedincome1.pdf
 file_size: 277943
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

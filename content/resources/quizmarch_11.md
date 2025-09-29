@@ -4,6 +4,8 @@ description: 'Quiz For Lecture # 10'
 file: /courses/15-433-investments-spring-2003/3f23dec58b291f1cc282638408dc6350_quizmarch_11.pdf
 file_size: 76297
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

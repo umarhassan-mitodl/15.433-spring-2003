@@ -4,6 +4,8 @@ description: 'CLASS 22: MARKET EFFICIENCY'
 file: /courses/15-433-investments-spring-2003/4491842813dd9719421bce96c282b39c_1543322marketefficiency.pdf
 file_size: 85070
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

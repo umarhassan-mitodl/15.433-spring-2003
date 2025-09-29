@@ -4,6 +4,8 @@ description: 'Quiz For Lecture # 7'
 file: /courses/15-433-investments-spring-2003/1dc43e8a9b6df299cbe90b7ca2002586_quizfebruary_27.pdf
 file_size: 51752
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

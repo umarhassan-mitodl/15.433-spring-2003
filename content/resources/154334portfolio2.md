@@ -4,6 +4,8 @@ description: 'Class 4: Portfolio Theory. Part 2: Extensions'
 file: /courses/15-433-investments-spring-2003/64364800d3b15fcdb618e844e9ba25b7_154334portfolio2.pdf
 file_size: 201035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

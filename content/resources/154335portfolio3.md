@@ -4,6 +4,8 @@ description: 'Class 5: Portfolio Theory. Part3: Optimal Risky Portfolio'
 file: /courses/15-433-investments-spring-2003/d87bfc38cba412a4187bb892a70fe372_154335portfolio3.pdf
 file_size: 143815
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

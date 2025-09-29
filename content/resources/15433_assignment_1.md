@@ -4,6 +4,8 @@ description: 'Assignment 1: Securities, Markets & Capital Market Theory'
 file: /courses/15-433-investments-spring-2003/0e6f4a2b7d58acf01f88c602bc6f28e0_15433_assignment_1.PDF
 file_size: 79214
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

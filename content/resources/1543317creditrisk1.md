@@ -4,6 +4,8 @@ description: 'Class 17: The Credit Market. Part 1: Modeling Default Risk'
 file: /courses/15-433-investments-spring-2003/08ceba70b1a9e8969c47f667a7a3de11_1543317creditrisk1.pdf
 file_size: 271538
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

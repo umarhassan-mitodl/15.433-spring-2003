@@ -4,6 +4,8 @@ description: 'Assignment 3: Futures'
 file: /courses/15-433-investments-spring-2003/c18221d4b592f362e753038089a6171e_15433_assignment_3.pdf
 file_size: 44738
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -27,6 +27,7 @@
     "website": "15-433-investments-spring-2003"
   },
   "course_title": "Investments",
+  "hide_download": true,
   "course_description": "The focus of this course is on financial theory and empirical evidence for making investment decisions. Topics include: portfolio theory; equilibrium models of security prices (including the capital asset pricing model and the arbitrage pricing theory); the empirical behavior of security prices; market efficiency; performance evaluation; and behavioral finance.\n",
   "department_numbers": [
     "15"
@@ -37,6 +38,7 @@
     "content": "9b03298a-a00c-9f82-2487-334e6bae220f",
     "website": "15-433-investments-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
