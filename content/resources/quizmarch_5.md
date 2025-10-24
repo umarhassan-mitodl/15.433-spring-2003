@@ -4,8 +4,6 @@ description: 'Quiz On The Day Before Lecture # 9'
 file: /courses/15-433-investments-spring-2003/be4cb7911e712a57f140e0d52fda5869_QuizMarch_5.pdf
 file_size: 65453
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

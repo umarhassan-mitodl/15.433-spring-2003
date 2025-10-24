@@ -4,8 +4,6 @@ description: 'Class 3: Portfolio Theory. Part 1: Setting up the Problem'
 file: /courses/15-433-investments-spring-2003/aaabe0fbbdfa71e72fe46853b289a34d_154333portfolio1.pdf
 file_size: 248558
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

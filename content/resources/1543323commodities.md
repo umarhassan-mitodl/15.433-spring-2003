@@ -4,8 +4,6 @@ description: 'Class 23: Commodities'
 file: /courses/15-433-investments-spring-2003/d71a728fb263f2f84b57b400efd6ebde_1543323Commodities.pdf
 file_size: 130039
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

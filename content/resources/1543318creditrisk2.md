@@ -4,8 +4,6 @@ description: 'Class 18: The Credit Market. Part 2: Credit Derivatives'
 file: /courses/15-433-investments-spring-2003/befd2257eaac9576e30893ff331ee544_1543318creditrisk2.pdf
 file_size: 119634
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

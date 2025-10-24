@@ -4,8 +4,6 @@ description: 'Class 10- Equity Options. Part 1: Pricing'
 file: /courses/15-433-investments-spring-2003/8a208eb589a86bf1bc8d4bffda560900_1543310equityoption1.pdf
 file_size: 311982
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

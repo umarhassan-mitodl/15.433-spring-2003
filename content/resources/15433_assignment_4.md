@@ -4,8 +4,6 @@ description: 'Assignment 4: Option Simulation'
 file: /courses/15-433-investments-spring-2003/8a8bd6fa0d1261b937b2e3032b0816fb_15433_assignment_4.pdf
 file_size: 41211
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

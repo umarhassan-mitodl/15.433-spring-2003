@@ -4,8 +4,6 @@ description: Mid-Term Spring 2003
 file: /courses/15-433-investments-spring-2003/d60c8e973d5cc46c01244cc20af1967f_15433spring03_mid_term_solution.pdf
 file_size: 158913
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

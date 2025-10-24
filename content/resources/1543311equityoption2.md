@@ -4,8 +4,6 @@ description: 'Class 11: Equity Options. Part 2: Empirical Evidence'
 file: /courses/15-433-investments-spring-2003/9e76a8321417c8be3dd97b8d5dfef7f5_1543311equityoption2.pdf
 file_size: 118573
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

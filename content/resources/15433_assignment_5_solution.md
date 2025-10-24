@@ -4,8 +4,6 @@ description: 'Assignment 5: Performance Attribution'
 file: /courses/15-433-investments-spring-2003/95954b9066d5b16515ea2cfddd33158b_15433_assignment_5_solution.pdf
 file_size: 113353
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

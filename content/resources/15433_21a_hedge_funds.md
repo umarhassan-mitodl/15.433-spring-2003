@@ -4,8 +4,6 @@ description: 'Class 21: Hedge Funds'
 file: /courses/15-433-investments-spring-2003/2c65cd619fc2e15bc0789bbecf0f7370_15433_21a_hedge_funds.pdf
 file_size: 93183
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
